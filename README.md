@@ -16,6 +16,7 @@ Historical Load Patterns: Past demand trends.
 Public Holidays: Changes in demand during non-working days.
 Urban Development: Impact of construction and new real estate projects.
 Solar Power Generation Forecasts: Predictions on available solar power.
+
 2. Model Development
 Feature Engineering
 The model will include features reflecting relationships between weather, time-of-day, and power demand. For instance:
