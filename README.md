@@ -1,8 +1,4 @@
 # Delhi_Power_Consumption
-
-Memory updated
-Here’s a version of the proposed solution, formatted for a README file in GitHub, with sections and a placeholder for a graph.
-
 AI-Based Load Forecasting and Optimization for NCT of Delhi
 The National Capital Territory (NCT) of Delhi faces significant challenges in managing its highly variable power demand, influenced by factors such as seasonal fluctuations, time-of-day variations, and rapid urban development. To address these issues, we propose an AI-based load forecasting and optimization model aimed at enhancing accuracy in power demand forecasting and optimizing power procurement strategies.
 
